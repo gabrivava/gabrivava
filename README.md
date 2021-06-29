@@ -5,7 +5,7 @@
         
 ### $Name -> **Gabriele 👨🏻‍**
 ### $Lastname -> **Vavassori**
-### $From -> **Ita🇮🇹**
+### $From -> **Italy🇮🇹**
 ### $Skills -> 
 <a href="https://www.w3schools.com/html/default.asp">
     <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="10%" alt="HTML5 Powered" title="HTML5 Powered">
