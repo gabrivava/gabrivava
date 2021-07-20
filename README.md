@@ -1,8 +1,7 @@
-<div>
-    <img width="60%" align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZL1Tyu5vRbWj15Twxh0N_mTygmYmwOayD5w&usqp=CAU">
-
-## **Hello** 👋 
-        
+<!--
+### Hi there,I'm Gabriele 👋 
+    
+## I'm a skater studing to become full stack Web Developer
 ### $Name -> **Gabriele 👨🏻‍**
 ### $Lastname -> **Vavassori**
 ### $From -> **Italy🇮🇹**
@@ -23,6 +22,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="19%">
 </a> 
 </div>
+-->
 
 
 
