@@ -1,40 +1,21 @@
 
-### Hi there,I'm Gabriele 👋 
+# Hi there, I'm Gabriele 👋 
     
 ## I'm a skater studing to become full stack Web Developer
 
-<a href="https://www.w3schools.com/html/default.asp">
-    <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="10%" alt="HTML5 Powered" title="HTML5 Powered">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" width="10.3%">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="9.1%">
-</a>
-<a href="https://vuejs.org/v2/guide/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="11.9%">
-</a>
-<a href="https://www.php.net/manual/en/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="19%">
-</a> 
-</div>
--->
-[![gabrivava's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrivava)](https://github.com/gabrivava/github-readme-stats)
+- 🔭 I’m currently studying at Boolean
+- 🌱 I’m currently learning Laravel
+- 👯 I’m looking to collaborate on Any Project
+- 💬 Ask me about something
+- 📫 How to reach me: 📨 gabriele.vavassori4@gmail.com
+- 😄 Pronouns: 🇮🇹
+- ⚡ Fun fact: i broke my neck once💀
+
+## Knoledge:
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrivava)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
-<!-- **gabrivava/gabrivava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
 
