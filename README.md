@@ -1,11 +1,8 @@
-<!--
+
 ### Hi there,I'm Gabriele 👋 
     
 ## I'm a skater studing to become full stack Web Developer
-### $Name -> **Gabriele 👨🏻‍**
-### $Lastname -> **Vavassori**
-### $From -> **Italy🇮🇹**
-### $Skills -> 
+
 <a href="https://www.w3schools.com/html/default.asp">
     <img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="10%" alt="HTML5 Powered" title="HTML5 Powered">
 </a>
@@ -23,7 +20,7 @@
 </a> 
 </div>
 -->
-
+[![gabrivava's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrivava)](https://github.com/gabrivava/github-readme-stats)
 
 
 
