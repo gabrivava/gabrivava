@@ -1,10 +1,10 @@
 
 # Hi there, I'm Gabriele 👋 
     
-## I'm a skater studing to become full stack Web Developer
+## I'm a Junior full stack Web Developer
 
-- 🔭 I’m currently studying at Boolean
-- 🌱 I’m currently learning Laravel
+- 🔭 I've study at Boolean
+- 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Any Project
 - 💬 Ask me about something
 - 📫 How to reach me: 📨 gabriele.vavassori4@gmail.com
