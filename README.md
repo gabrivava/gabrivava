@@ -4,7 +4,7 @@
 ## I'm a Junior full stack Web Developer
 
 - 🔭 I've study at Boolean
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Three.js
 - 👯 I’m looking to collaborate on Any Project
 - 💬 Ask me about something
 - 📫 How to reach me: 📨 gabriele.vavassori4@gmail.com
